@@ -30,7 +30,7 @@ In this notebook, we leverage machine learning techniques to predict passenger s
 
 2. Model Building: We develop machine learning models, such as classification algorithms, to predict passenger satisfaction.
 
-3.Model Evaluation: To measure how well our models perform, we use specific metrics like accuracy, precision, recall, and F1-score. In this analysis, we focus on "recall" as a key metric. Think of recall as the ability of our model to catch satisfied passengers early on. We want to make sure we identify as many satisfied passengers as possible, even if it means making a few mistakes by flagging some passengers as satisfied when they are not. This way, we can take proactive steps to provide excellent service or incentives to keep our satisfied customers engaged and happy.
+3. Model Evaluation: To measure how well our models perform, we use specific metrics like accuracy, precision, recall, and F1-score. In this analysis, we focus on "recall" as a key metric. Think of recall as the ability of our model to catch satisfied passengers early on. We want to make sure we identify as many satisfied passengers as possible, even if it means making a few mistakes by flagging some passengers as satisfied when they are not. This way, we can take proactive steps to provide excellent service or incentives to keep our satisfied customers engaged and happy.
 
 4. Feature Importance: We identify the most influential features contributing to passenger satisfaction, providing actionable insights for the airline.
 
