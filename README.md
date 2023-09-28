@@ -6,6 +6,10 @@ This repository contains two Jupyter notebooks that focus on analyzing passenger
 ![image](https://github.com/ManarSabri/Airline_Passenger_Satisfication/assets/100795596/1e699d43-ca9c-4d27-bf79-ca70bfde5a0d)
 
 
+https://github.com/ManarSabri/Airline_Passenger_Satisfication/assets/100795596/eca98ca4-7614-4e8d-a779-de130d47a203
+
+
+
 ## Notebook 1: Exploratory Data Analysis (EDA)
 
 ### Overview
