@@ -3,6 +3,8 @@
 ## Overview
 
 This repository contains two Jupyter notebooks that focus on analyzing passenger satisfaction data and proposing solutions to enhance overall passenger satisfaction for an airline. The notebooks are divided into two parts: Exploratory Data Analysis (EDA) and Machine Learning.
+![image](https://github.com/ManarSabri/Airline_Passenger_Satisfication/assets/100795596/1e699d43-ca9c-4d27-bf79-ca70bfde5a0d)
+
 
 ## Notebook 1: Exploratory Data Analysis (EDA)
 
